@@ -290,6 +290,7 @@
     DECL(homelead_hg9901) \
     DECL(maverick_xr50) \
     DECL(orion_endpoint) \
+    DECL(lacrosse_ltv) \
 
     /* Add new decoders here. */
 
